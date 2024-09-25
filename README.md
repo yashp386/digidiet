@@ -14,6 +14,7 @@ I utilized the Food.com Kaggle dataset, which includes over 500,000 recipes and 
 ### Backend Development
 The backend of the application is developed using the FastAPI framework, enabling the creation of high-performance web APIs. When a user submits a request to the API (containing user data, nutrition data, etc.), the model generates a list of recommended foods that are similar or suitable to the user’s request. These recommendations are then returned to the user via the API.
 
+
 ### Frontend Development 
 The frontend is built with Streamlit, an open-source app framework in Python. Streamlit allows for the rapid development of web apps for data science and machine learning and is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy (latex), NumPy, pandas, Matplotlib, etc. The frontend comprises three web pages. The main page, Hello.py, serves as a welcome page to introduce the project. The sidebar on the left enables users to navigate to the automatic diet recommendation page and the custom food recommendation page. On the diet recommendation page, users can enter their age, weight, height, and other information to receive a diet recommendation based on their details. Additionally, the custom food recommendation page allows users to refine their food preferences using nutritional values.
 
@@ -36,9 +37,7 @@ The project is created with:
 * Numpy: 1.21.5
 * beautifulsoup4 4.11.1
 * Vega-Altair < 5
-
 ![](https://img.icons8.com/color/48/null/python--v1.png)![](https://img.icons8.com/color/48/null/numpy.png)![](Assets/streamlit-icon-48x48.png)![](Assets/fastapi.ico)![](Assets/scikit-learn.ico) ![](https://img.icons8.com/color/48/null/pandas.png)
-
 <h1 align="center">Some Screenshots</h1>
 <div align= "center"><img src="images/1st.png" />
   <div align= "center"><img src="images/2nd.png" />
