@@ -2,7 +2,6 @@
 <div align= "center"><img src="images/DIGIDIET.png" />
   <h4>personalized diet plans with DigiDiet: A content-based recommendation web application powered by Scikit-Learn, FastAPI, and Streamlit..</h4>
 </div>
-
 ### What is Food Recommendation System 🍎 ? 
 A food recommendation engine is a system designed to suggest food items, recipes, or meal plans to users based on various inputs and criteria. These systems can utilize different recommendation techniques to provide personalized suggestions that cater to individual preferences, dietary needs, and health goal.
 
